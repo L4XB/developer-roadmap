@@ -6,5 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@What is Azure?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure)
 - [@official@Azure Docs](https://learn.microsoft.com/en-us/azure/?product=popular)
-- [@official@Azure Website](https://azure.microsoft.com/en-us/)
 - [@video@Microsoft Azure](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKihhGvJw05bU8DhoQMn_ni)
