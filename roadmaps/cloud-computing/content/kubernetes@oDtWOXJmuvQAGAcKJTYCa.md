@@ -5,3 +5,4 @@ Kubernetes is the standard container orchestration platform. You define workload
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Kubernetes Roadmap](https://roadmap.sh/kubernetes)
+- [@article@Top 50 Kubernetes Interview Questions and Answers](https://roadmap.sh/questions/kubernetes)

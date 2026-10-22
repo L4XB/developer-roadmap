@@ -5,3 +5,4 @@ Terraform is a provider-agnostic IaC tool that uses a declarative configuration 
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Terraform Roadmap](https://roadmap.sh/terraform)
+- [@article@Terraform Backend: How it Works and How to Configure it](https://roadmap.sh/terraform/backend)

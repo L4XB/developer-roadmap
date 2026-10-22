@@ -5,3 +5,4 @@ Networking basics covers the fundamental concepts that underpin how computers co
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Network Engineer Roadmap](https://roadmap.sh/network-engineer)
+- [@article@WebSocket vs. HTTP: Which protocol should you use?](https://roadmap.sh/network-engineer/websocket-vs-http)
