@@ -4,7 +4,7 @@ Version control tracks changes to files over time, so teams can see what changed
 
 Visit the following resources to learn more:
 
-- [@roadmap@Visit the Dedicated Git & GitHub Roadmpa](https://roadmap.sh/git-github)
+- [@roadmap@Visit the Dedicated Git & GitHub Roadmap](https://roadmap.sh/git-github)
 - [@official@Git](https://git-scm.com/)
 - [@official@Git Documentation](https://git-scm.com/docs)
 - [@article@What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
